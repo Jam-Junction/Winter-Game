@@ -1,6 +1,5 @@
 namespace DefaultNamespace;
 
-public class startup
-{
+public class Startup {
     
 }
