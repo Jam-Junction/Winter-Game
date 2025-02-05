@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bpt5j31s4600c"
-path="res://.godot/imported/trundade.png-234ef334a45b1b147336d5998ab79936.ctex"
+uid="uid://04onxccucvtg"
+path="res://.godot/imported/SpeechBox.png-e564741f8858be6a741425edce888249.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/trundade.png"
-dest_files=["res://.godot/imported/trundade.png-234ef334a45b1b147336d5998ab79936.ctex"]
+source_file="res://assets/SpeechBox.png"
+dest_files=["res://.godot/imported/SpeechBox.png-e564741f8858be6a741425edce888249.ctex"]
 
 [params]
 
